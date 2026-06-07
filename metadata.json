@@ -1,0 +1,6 @@
+{
+  "name": "Vitamin MCQs Quiz",
+  "description": "A quiz app to practice Vitamin MCQs with shuffled questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
